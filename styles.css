@@ -1,0 +1,28 @@
+.navbar-nav{
+    margin-left: 930px;
+    position: relative;
+}
+.nav-item{
+    margin-left: 15px;
+
+}
+.row{
+    text-align: center;
+}
+.top-left {
+    position: absolute;
+    top: 80px;
+    left: 50px;
+  }
+.container{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#features{
+    margin-top: 50px;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 50px;
+}
